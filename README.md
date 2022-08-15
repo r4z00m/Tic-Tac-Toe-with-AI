@@ -2,7 +2,11 @@
 
 A simple console Tic-Tac-Toe
 
-input format > start mode mode
+game modes: easy, medium, hard, user
+
+input format > start mode1 mode2
+
+first argument moves first
 
 example:
 > %> start hard user
