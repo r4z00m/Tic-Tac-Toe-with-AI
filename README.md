@@ -7,7 +7,7 @@ input format > start mode mode
 example:
 > %> start hard user
 
-input coordinates > column row
+input coordinates > row column
 
 example:
 > %> 3 2
